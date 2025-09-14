@@ -1,0 +1,12 @@
+img.normal {
+  float: left;
+  height: 150px;
+  width: 400px;
+}
+
+iframe.esquerda {
+  float: right;
+  height: 100px
+  width: 150px
+
+}
